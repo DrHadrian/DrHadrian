@@ -1,1 +1,1 @@
-- Lua, JS/TS, Networking & Linux
+- Java, JS/TS, Lua, Networking & Linux
